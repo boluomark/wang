@@ -17,14 +17,14 @@
 # print(type([]))
 # print(type({}))
 
+# print(type([]))
+# print(type({}))
+# print(type({}))
 
 # print(name)
 # a = input("请输入：") #a为字符串
 # b= input("请输入：")  #b为字符串
 # print("input获取内容",a+b) # 结果只是字符串的相加
-
-# a=int("233")
-# print(type(a))
 
 # a = float( input("请输入：")) #a为小数
 # b= float(input("请输入：")) #b为小数
