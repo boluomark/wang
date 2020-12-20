@@ -18,7 +18,6 @@
 
 # print(type([]))
 # print(type({}))
-# print(type({}))
 
 # print(name)
 # a = input("请输入：") #a为字符串
