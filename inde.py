@@ -32,6 +32,12 @@
 # a = 'qweqweqweqwe'
 # print(len(a))
 
-a = input("请输入内容1:")
-b = input("请输入内容2:")
-print("输出:",len(a)+len(b))
+# a = input("请输入内容1:")
+# b = input("请输入内容2:")
+# print("输出:",len(a)+len(b))
+
+# # 元组,下标，从0开始编号
+ a=(1,2,3,4,"haha")   #空的元祖
+# print(a[4])  #选择4的下标 0.1.2.3.4
+
+print(a.index("haha"))
