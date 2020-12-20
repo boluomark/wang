@@ -15,7 +15,6 @@
 # print(type(True))
 # print(type(()))
 # print(type([]))
-# print(type({}))
 
 # print(type([]))
 # print(type({}))
